@@ -1,4 +1,4 @@
-# ⚡ NERV Clock Releases
+# ⚡ NERV Clock 
 
 > **Bring NERV's command center to your desktop** — An authentic Evangelion-style clock widget for desktop and Android, meticulously crafted to capture the iconic aesthetic of NERV headquarters.
 
